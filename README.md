@@ -20,13 +20,13 @@ through a lightweight CLI client.
 
 ## Summary
 GopherIt is a terminal-based Gopher client written in C. It uses POSIX/BSD sockets for networking, 
-implements page caching via a doubly-linked list, and parses RFC 1436-compliant server responses. 
+implements page caching, and parses RFC 1436-compliant server responses. 
 Its source code is private due to employer policy; implementation details are available upon request.
 
 ## Features
 - <ins>Keyboard-driven</ins>: browse Gopher menus and text files via the CLI
 - <ins>Scriptable</ins>: access links using numerical values and the return key
-- <ins>Familiar</ins>: retrace your steps seamlessly with backward/forward functionality
+- <ins>Navigable</ins>: retrace your steps seamlessly with backward/forward functionality
 - <ins>Efficient</ins>: experience minimal network overhead and low system impact
 - <ins>Intuitive</ins>: enjoy a straightforward and simple user interface
 
